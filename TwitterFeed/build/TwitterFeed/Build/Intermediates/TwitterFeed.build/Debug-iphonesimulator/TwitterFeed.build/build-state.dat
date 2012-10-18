@@ -1,0 +1,493 @@
+TTwitterFeed
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Info.plist TwitterFeed/TwitterFeed-Info.plist
+cProcessPCH /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/PrecompiledHeaders/TwitterFeed-Prefix-cqdfzbpjxcuqaldqxrkjdajyyset/TwitterFeed-Prefix.pch.pth TwitterFeed/TwitterFeed-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/main.o /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/AppDelegate.o /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/MainViewController.o /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/TimelineCell.o /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/TimelineCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/DetailViewController.o /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/TwitterFeed normal i386
+cGenerateDSYMFile /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app.dSYM /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/TwitterFeed
+cCpResource TwitterFeed/Default.png build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Default.png
+cCopyStringsFile /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/en.lproj/InfoPlist.strings TwitterFeed/en.lproj/InfoPlist.strings
+cCpResource TwitterFeed/Default@2x.png build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Default@2x.png
+cCpResource TwitterFeed/Default-568h@2x.png build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Default-568h@2x.png
+cCompileStoryboard /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/en.lproj/MainStoryboard.storyboard
+cCpResource ev_bkg_bottom_flat.png build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom_flat.png
+cCpResource ev_bkg_bottom.png build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom.png
+cCpResource ev_bkg_bottom_flat@2x.png build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom_flat@2x.png
+cCpResource ev_bkg_bottom@2x.png build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom@2x.png
+cTouch /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000505A77290000000000228FD0
+t1348106025
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000505A772D00000000003DCEF0
+t1348106029
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000505A772D00000000000015F7
+t1348106029
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Twitter.framework/Twitter
+c00000000505A77400000000000005140
+t1348106048
+s20800
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000505A77400000000000000E8D
+t1348106048
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000505A77410000000000AB3D60
+t1348106049
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c00000000505A77570000000000001B54
+t1348106071
+s6996
+
+N/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/AppDelegate.h
+c000000005080401200000000000000EB
+t1350582290
+s235
+
+N/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/AppDelegate.m
+c000000005080401200000000000007AD
+t1350582290
+s1965
+
+N/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/DetailViewController.h
+c00000000508081A000000000000001A1
+t1350599072
+s417
+
+N/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/DetailViewController.m
+c00000000508081A000000000000003EC
+t1350599072
+s1004
+
+N/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/MainViewController.h
+c00000000508075A90000000000000251
+t1350596009
+s593
+
+N/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/MainViewController.m
+c0000000050808918000000000000234D
+t1350600984
+s9037
+
+N/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/TimelineCell.h
+c0000000050805C320000000000000123
+t1350589490
+s291
+
+N/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/TimelineCell.m
+c00000000508056F10000000000000261
+t1350588145
+s609
+
+N/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/TwitterFeed-Prefix.pch
+c00000000508040120000000000000145
+t1350582290
+s325
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/ViewController.m
+c000000005080401300000000000001C3
+t1350582291
+s451
+
+N/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/en.lproj/InfoPlist.strings
+c0000000050804011000000000000002D
+t1350582289
+s45
+
+N/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/en.lproj/MainStoryboard.storyboard
+c0000000050807F4600000000000025B6
+t1350598470
+s9654
+
+N/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/main.m
+c00000000508040120000000000000126
+t1350582290
+s294
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/PrecompiledHeaders/TwitterFeed-Prefix-asnlpvivjwanicehjkglosxwzkue/TwitterFeed-Prefix.pch.pth
+t2
+s0
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/PrecompiledHeaders/TwitterFeed-Prefix-cqdfzbpjxcuqaldqxrkjdajyyset/TwitterFeed-Prefix.pch.pth
+t1350583554
+s4837124
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/AppDelegate.o
+t1350583556
+s86360
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/DetailViewController.o
+t1350599073
+s76604
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/MainViewController.o
+t1350600573
+s118404
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/TimelineCell.o
+t1350589500
+s71420
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/TwitterFeed.LinkFileList
+c0000000050806883000000000000034D
+t1350592643
+s845
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/main.o
+t1350583556
+s3300
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app
+t1350600574
+s442
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app.dSYM
+t1350600574
+s102
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Default-568h@2x.png
+t1350583561
+s18594
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Default.png
+t1350583561
+s6540
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Default@2x.png
+t1350583561
+s16107
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Info.plist
+t1350583538
+s844
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/PkgInfo
+t1350583538
+s8
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/TwitterFeed
+t1350600574
+s65024
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/en.lproj/InfoPlist.strings
+t1350583561
+s42
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/en.lproj/MainStoryboard.storyboardc
+t1350598486
+s238
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom.png
+t1350589534
+s2773
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom@2x.png
+t1350589534
+s5923
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom_flat.png
+t1350589534
+s3008
+
+N/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom_flat@2x.png
+t1350589534
+s6465
+
+N/Users/Greenwave/Desktop/TwitterFeed/ev_bkg_bottom.png
+c000000004FCE18570000000000000AD5
+t1338906711
+s2773
+
+N/Users/Greenwave/Desktop/TwitterFeed/ev_bkg_bottom@2x.png
+c000000004FCE18570000000000001723
+t1338906711
+s5923
+
+N/Users/Greenwave/Desktop/TwitterFeed/ev_bkg_bottom_flat.png
+c000000004FC8D3040000000000000BC0
+t1338561284
+s3008
+
+N/Users/Greenwave/Desktop/TwitterFeed/ev_bkg_bottom_flat@2x.png
+c000000004FC8D3040000000000001941
+t1338561284
+s6465
+
+NTwitterFeed/TwitterFeed-Info.plist
+c000000005080401100000000000004CA
+t1350582289
+s1226
+
+CBuild AST from /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/AppDelegate.m
+r0
+
+CBuild AST from /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/DetailViewController.m
+r0
+
+CBuild AST from /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/MainViewController.m
+r0
+
+CBuild AST from /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/TimelineCell.m
+r0
+
+CBuild AST from /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/ViewController.m
+r0
+
+CBuild AST from /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciese2938298c030b641^088f9698c030b641^---0#1#0#--18"Check dependencies36"1801B8C7-2046-4F61-897D-BC9F56149FC8-
+
+CCompileC build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/AppDelegate.o /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372276355.215010
+e372276356.687528
+r1
+xCompileC
+xbuild/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/AppDelegate.o
+x/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/AppDelegate.m012f37837c30b641^9301b0847c30b641^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/AppDelegate.m0000000000000000^3981"CompileC build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/AppDelegate.o TwitterFeed/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Greenwave/Desktop/TwitterFeed    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-generated-files.hmap -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-own-target-headers.hmap -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-all-target-headers.hmap -iquote /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-project-headers.hmap -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/DerivedSources/i386 -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/DerivedSources -F/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator -include /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/PrecompiledHeaders/TwitterFeed-Prefix-cqdfzbpjxcuqaldqxrkjdajyyset/TwitterFeed-Prefix.pch -MMD -MT dependencies -MF /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/AppDelegate.dia -c /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/AppDelegate.m -o /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/AppDelegate.o36"B3460E49-9302-4A51-95D6-18659CBBA197-
+
+CCompileC build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/DetailViewController.o /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372291873.126836
+e372291873.311486
+r1
+xCompileC
+xbuild/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/DetailViewController.o
+x/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/DetailViewController.md3a02021b930b641^a9f85f21b930b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/DetailViewController.m0000000000000000^4035"CompileC build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/DetailViewController.o TwitterFeed/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Greenwave/Desktop/TwitterFeed    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-generated-files.hmap -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-own-target-headers.hmap -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-all-target-headers.hmap -iquote /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-project-headers.hmap -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/DerivedSources/i386 -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/DerivedSources -F/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator -include /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/PrecompiledHeaders/TwitterFeed-Prefix-cqdfzbpjxcuqaldqxrkjdajyyset/TwitterFeed-Prefix.pch -MMD -MT dependencies -MF /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/DetailViewController.d --serialize-diagnostics /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/DetailViewController.dia -c /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/DetailViewController.m -o /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/DetailViewController.o36"D604942F-C3D7-4B51-B986-CA3937A5459E-
+
+CCompileC build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/MainViewController.o /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372293784.631203
+e372293787.349651
+r1
+xCompileC
+xbuild/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/MainViewController.o
+x/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/MainViewController.m6bb7a198c030b641^aa82599bc030b641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/MainViewController.m0000000000000000^4023"CompileC build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/MainViewController.o TwitterFeed/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Greenwave/Desktop/TwitterFeed    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-generated-files.hmap -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-own-target-headers.hmap -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-all-target-headers.hmap -iquote /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-project-headers.hmap -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/DerivedSources/i386 -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/DerivedSources -F/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator -include /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/PrecompiledHeaders/TwitterFeed-Prefix-cqdfzbpjxcuqaldqxrkjdajyyset/TwitterFeed-Prefix.pch -MMD -MT dependencies -MF /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/MainViewController.dia -c /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/MainViewController.m -o /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/MainViewController.o36"4CF70D13-9463-4274-BF7A-534EEBB36D81-
+
+CCompileC build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/TimelineCell.o /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/TimelineCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372282291.469712
+e372282300.223974
+r1
+xCompileC
+xbuild/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/TimelineCell.o
+x/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/TimelineCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/TimelineCell.m647478b39330b641^695739bc9330b641^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/TimelineCell.m0000000000000000^3987"CompileC build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/TimelineCell.o TwitterFeed/TimelineCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Greenwave/Desktop/TwitterFeed    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-generated-files.hmap -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-own-target-headers.hmap -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-all-target-headers.hmap -iquote /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-project-headers.hmap -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/DerivedSources/i386 -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/DerivedSources -F/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator -include /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/PrecompiledHeaders/TwitterFeed-Prefix-cqdfzbpjxcuqaldqxrkjdajyyset/TwitterFeed-Prefix.pch -MMD -MT dependencies -MF /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/TimelineCell.d --serialize-diagnostics /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/TimelineCell.dia -c /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/TimelineCell.m -o /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/TimelineCell.o36"91F01957-ADAB-49DC-B1A1-2551854AFA07-
+
+CCompileC build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/ViewController.o /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/main.o /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372276355.215007
+e372276356.625877
+r1
+xCompileC
+xbuild/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/main.o
+x/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/main.m5a2e37837c30b641^ef39a0847c30b641^---0#0#0#-19%DVTDocumentLocation2@71"file://localhost/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/main.m0000000000000000^3939"CompileC build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/main.o TwitterFeed/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Greenwave/Desktop/TwitterFeed    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-generated-files.hmap -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-own-target-headers.hmap -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-all-target-headers.hmap -iquote /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-project-headers.hmap -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/DerivedSources/i386 -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/DerivedSources -F/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator -include /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/PrecompiledHeaders/TwitterFeed-Prefix-cqdfzbpjxcuqaldqxrkjdajyyset/TwitterFeed-Prefix.pch -MMD -MT dependencies -MF /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/main.dia -c /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/main.m -o /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/main.o36"118FDE05-0BC3-43FA-BD7E-E32F6E02AF18-
+
+CCompileStoryboard /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/en.lproj/MainStoryboard.storyboard
+s372291271.064535
+e372291286.045840
+r1
+xCompileStoryboard
+x/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/en.lproj/MainStoryboard.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"CompileStoryboard TwitterFeed/en.lproj/MainStoryboard.storyboardba9e10c7b630b641^6ccc0bd6b630b641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/en.lproj/MainStoryboard.storyboard0000000000000000^977"CompileStoryboard TwitterFeed/en.lproj/MainStoryboard.storyboard    cd /Users/Greenwave/Desktop/TwitterFeed    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/en.lproj/MainStoryboard.storyboardc /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"6AFA975F-9F7F-4E94-B9A4-E82D23B73027-
+
+CCopyStringsFile /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/en.lproj/InfoPlist.strings TwitterFeed/en.lproj/InfoPlist.strings
+s372276361.605872
+e372276361.833888
+r1
+xCopyStringsFile
+x/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/en.lproj/InfoPlist.strings
+xTwitterFeed/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy TwitterFeed/en.lproj/InfoPlist.strings6aa2a3897c30b641^8e79d5897c30b641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/en.lproj/InfoPlist.strings0000000000000000^641"CopyStringsFile build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/en.lproj/InfoPlist.strings TwitterFeed/en.lproj/InfoPlist.strings    cd /Users/Greenwave/Desktop/TwitterFeed    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/en.lproj -- TwitterFeed/en.lproj/InfoPlist.strings36"5E2DD233-DB55-4214-8DB3-2CC3C7E2EF83-
+
+CCpResource TwitterFeed/Default-568h@2x.png build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Default-568h@2x.png
+s372276361.778912
+e372276361.833618
+r1
+xCpResource
+xTwitterFeed/Default-568h@2x.png
+xbuild/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Default-568h@2x.png5a83c7897c30b641^4d69d5897c30b641^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Default-568h@2x.png000000000080d041^668"CpResource "TwitterFeed/Default-568h@2x.png" "build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Default-568h@2x.png"    cd /Users/Greenwave/Desktop/TwitterFeed    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/Default-568h@2x.png" /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app36"9F7CA77C-D076-4608-89F7-9E2F8A27141B-
+
+CCpResource TwitterFeed/Default.png build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Default.png
+s372276361.605882
+e372276361.777737
+r1
+xCpResource
+xTwitterFeed/Default.png
+xbuild/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Default.pngada2a3897c30b641^e657c7897c30b641^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Default.png000000000080d041^638"CpResource TwitterFeed/Default.png build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Default.png    cd /Users/Greenwave/Desktop/TwitterFeed    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/Default.png /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app36"03519A3E-8300-41BE-A4A6-85585F38963B-
+
+CCpResource TwitterFeed/Default@2x.png build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Default@2x.png
+s372276361.605888
+e372276361.777817
+r1
+xCpResource
+xTwitterFeed/Default@2x.png
+xbuild/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Default@2x.pngcfa2a3897c30b641^f25cc7897c30b641^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Default@2x.png000000000080d041^653"CpResource "TwitterFeed/Default@2x.png" "build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Default@2x.png"    cd /Users/Greenwave/Desktop/TwitterFeed    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/Default@2x.png" /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app36"55116F50-402C-46CF-8160-9C8DB6203795-
+
+CCpResource ev_bkg_bottom.png build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom.png
+s372282334.405425
+e372282334.408602
+r1
+xCpResource
+xev_bkg_bottom.png
+xbuild/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom.png1ee267de9330b641^58a968de9330b641^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom.png000000000080d041^632"CpResource ev_bkg_bottom.png build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom.png    cd /Users/Greenwave/Desktop/TwitterFeed    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Greenwave/Desktop/TwitterFeed/ev_bkg_bottom.png /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app36"7067C7F7-3BD6-4DE5-9A3B-865B03B2D76D-
+
+CCpResource ev_bkg_bottom@2x.png build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom@2x.png
+s372282334.405437
+e372282334.409841
+r1
+xCpResource
+xev_bkg_bottom@2x.png
+xbuild/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom@2x.png61e267de9330b641^abeb68de9330b641^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom@2x.png000000000080d041^647"CpResource "ev_bkg_bottom@2x.png" "build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom@2x.png"    cd /Users/Greenwave/Desktop/TwitterFeed    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Greenwave/Desktop/TwitterFeed/ev_bkg_bottom@2x.png" /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app36"91E6B3E0-1E85-4FE2-BF1C-2AD02BC64018-
+
+CCpResource ev_bkg_bottom_flat.png build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom_flat.png
+s372282334.361336
+e372282334.404155
+r1
+xCpResource
+xev_bkg_bottom_flat.png
+xbuild/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom_flat.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom_flat.png639b5cde9330b641^a58567de9330b641^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom_flat.png000000000080d041^647"CpResource ev_bkg_bottom_flat.png build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom_flat.png    cd /Users/Greenwave/Desktop/TwitterFeed    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Greenwave/Desktop/TwitterFeed/ev_bkg_bottom_flat.png /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app36"48E65D19-5219-4586-A03F-32D55EC0084A-
+
+CCpResource ev_bkg_bottom_flat@2x.png build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom_flat@2x.png
+s372282334.361499
+e372282334.404227
+r1
+xCpResource
+xev_bkg_bottom_flat@2x.png
+xbuild/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom_flat@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom_flat@2x.png49a15cde9330b641^008c67de9330b641^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom_flat@2x.png000000000080d041^662"CpResource "ev_bkg_bottom_flat@2x.png" "build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/ev_bkg_bottom_flat@2x.png"    cd /Users/Greenwave/Desktop/TwitterFeed    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Greenwave/Desktop/TwitterFeed/ev_bkg_bottom_flat@2x.png" /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app36"DF01201E-383E-4431-9C1B-49E30CA6239F-
+
+CGenerateDSYMFile /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app.dSYM /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/TwitterFeed
+s372293789.341267
+e372293789.845928
+r1
+xGenerateDSYMFile
+x/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app.dSYM
+x/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/TwitterFeed
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Generating /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app.dSYM7575579dc030b641^d191d89dc030b641^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app.dSYM/0000000000000000^751"GenerateDSYMFile build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app.dSYM build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/TwitterFeed    cd /Users/Greenwave/Desktop/TwitterFeed    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/TwitterFeed -o /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app.dSYM36"822AE348-CCCB-4725-A921-127F8A1C5613-
+
+CLd /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/TwitterFeed normal i386
+s372293787.357587
+e372293789.307687
+r1
+xLd
+x/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/TwitterFeed
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Link /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/TwitterFeed16a25b9bc030b641^3bc54e9dc030b641^---0#0#0#--1324"Ld build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/TwitterFeed normal i386    cd /Users/Greenwave/Desktop/TwitterFeed    setenv IPHONEOS_DEPLOYMENT_TARGET 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator -F/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator -filelist /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/Objects-normal/i386/TwitterFeed.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.1 -framework Twitter -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/TwitterFeed36"E7B658BE-FD17-45AA-A6AB-F11B6551879A-
+
+CProcessInfoPlistFile /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Info.plist TwitterFeed/TwitterFeed-Info.plist
+s372276338.788869
+e372276339.160271
+r1
+xProcessInfoPlistFile
+x/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Info.plist
+xTwitterFeed/TwitterFeed-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Process TwitterFeed/TwitterFeed-Info.plist7384e0727c30b641^a9f5f6747c30b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/TwitterFeed-Info.plist0000000000000000^753"ProcessInfoPlistFile build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Info.plist TwitterFeed/TwitterFeed-Info.plist    cd /Users/Greenwave/Desktop/TwitterFeed    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TwitterFeed/TwitterFeed-Info.plist -genpkginfo /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app/Info.plist36"FB027339-8998-427A-B64E-86368BC848D8-
+
+CProcessPCH /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/PrecompiledHeaders/TwitterFeed-Prefix-asnlpvivjwanicehjkglosxwzkue/TwitterFeed-Prefix.pch.pth TwitterFeed/TwitterFeed-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/PrecompiledHeaders/TwitterFeed-Prefix-cqdfzbpjxcuqaldqxrkjdajyyset/TwitterFeed-Prefix.pch.pth TwitterFeed/TwitterFeed-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372276339.168095
+e372276355.208410
+r1
+xProcessPCH
+x/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/PrecompiledHeaders/TwitterFeed-Prefix-cqdfzbpjxcuqaldqxrkjdajyyset/TwitterFeed-Prefix.pch.pth
+xTwitterFeed/TwitterFeed-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile TwitterFeed/TwitterFeed-Prefix.pch60032e737c30b641^b45935837c30b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/TwitterFeed-Prefix.pch0000000000000000^3838"ProcessPCH build/TwitterFeed/Build/Intermediates/PrecompiledHeaders/TwitterFeed-Prefix-cqdfzbpjxcuqaldqxrkjdajyyset/TwitterFeed-Prefix.pch.pth TwitterFeed/TwitterFeed-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Greenwave/Desktop/TwitterFeed    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-generated-files.hmap -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-own-target-headers.hmap -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-all-target-headers.hmap -iquote /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/TwitterFeed-project-headers.hmap -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/DerivedSources/i386 -I/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/TwitterFeed.build/Debug-iphonesimulator/TwitterFeed.build/DerivedSources -F/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/PrecompiledHeaders/TwitterFeed-Prefix-cqdfzbpjxcuqaldqxrkjdajyyset/TwitterFeed-Prefix.pch.dia -c /Users/Greenwave/Desktop/TwitterFeed/TwitterFeed/TwitterFeed-Prefix.pch -o /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/PrecompiledHeaders/TwitterFeed-Prefix-cqdfzbpjxcuqaldqxrkjdajyyset/TwitterFeed-Prefix.pch.pth -MMD -MT dependencies -MF /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Intermediates/PrecompiledHeaders/TwitterFeed-Prefix-cqdfzbpjxcuqaldqxrkjdajyyset/TwitterFeed-Prefix.pch.d36"7CB91A27-B6E8-426A-BAB4-980E8F8C267B-
+
+CProcessPCH /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Index/PrecompiledHeaders/TwitterFeed-Prefix-aswrzyfegwtrungghcvjhchzjbiv_ast/TwitterFeed-Prefix.pch.pth TwitterFeed/TwitterFeed-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Index/PrecompiledHeaders/TwitterFeed-Prefix-fudoevjuubvitgdftupnliyitzoa_ast/TwitterFeed-Prefix.pch.pth TwitterFeed/TwitterFeed-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app
+s372293789.902448
+e372293790.053856
+r1
+xTouch
+x/Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Touch /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app2b16e79dc030b641^7dca0d9ec030b641^---0#0#0#--446"Touch build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app    cd /Users/Greenwave/Desktop/TwitterFeed    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Greenwave/Desktop/TwitterFeed/build/TwitterFeed/Build/Products/Debug-iphonesimulator/TwitterFeed.app36"10552363-6DBE-4C63-A7B6-9FC0E4B01DE0-
+
